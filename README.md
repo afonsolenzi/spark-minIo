@@ -1,6 +1,8 @@
 # spark + minIo
 ### This is the high level architecture. Instructions bellow:
 ![Screenshot](Spark+Minio.png)
+### This is the output on bronze for tests
+![Screenshot](output-bronze.png)
 
 ## Reading a csv and saving as parquet on bronze for a test scenario.
 ### to execute same scenario in your machine, please:
@@ -28,7 +30,6 @@ https://min.io/
 
 
 
-### This is the output on bronze for tests
-![Screenshot](output-bronze.png)
+
 
 
