@@ -1,4 +1,6 @@
 # spark + minIo
+### This is the high level architecture
+![Screenshot](Spark+Minio.png)
 
 ## reading a csv and saving as parquet on bronze as a test scenario.
 ### to execute same scenario in your machine, please:
@@ -23,8 +25,7 @@ https://min.io/
 #### https://spark.apache.org/
 
 
-### This is the high level architecture
-![Screenshot](Spark+Minio.png)
+
 
 
 ### This is the output on bronze for tests
