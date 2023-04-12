@@ -5,4 +5,6 @@
 
 ![Screenshot](Spark+Minio.png)
 
+![Screenshot](output-bronze.png)
+
 
