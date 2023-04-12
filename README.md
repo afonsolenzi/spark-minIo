@@ -1,8 +1,8 @@
 # spark + minIo
-### This is the high level architecture
+### This is the high level architecture. Instructions bellow:
 ![Screenshot](Spark+Minio.png)
 
-## reading a csv and saving as parquet on bronze as a test scenario.
+## Reading a csv and saving as parquet on bronze for a test scenario.
 ### to execute same scenario in your machine, please:
 #### - have functional spark/pyspark. I am using 3.3.2 and Java 8.
 #### - I tested it on Vscode and Pycharm for a reference
