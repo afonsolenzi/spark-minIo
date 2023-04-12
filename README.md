@@ -1,6 +1,13 @@
 # spark + minIo
 
 ## reading a csv and saving as parquet on bronze as a test scenario.
+### to execute same scenario in your machine, please:
+#### - have functional spark/pyspark
+#### - download and install minIo. Also the add mentioned jars you can find in the spark session creation.
+#### - clone this repo
+#### - adapt to your scenario
+#### - run entire notebook.
+
 
 MinIO offers high-performance, S3 compatible object storage. Native to
 Kubernetes, MinIO is the only object storage suite available on every public
