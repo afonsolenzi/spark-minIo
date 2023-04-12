@@ -1,6 +1,6 @@
 # spark + minIo
 
 
-![Screenshot](Spark + Minio.drawio.png)
+![Screenshot](Spark+Minio.png)
 
 reading a csv and saving as parquet on bronze as a test scenario.
