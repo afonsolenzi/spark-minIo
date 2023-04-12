@@ -4,11 +4,11 @@
 
 
 
-# This is the general architecture
+### This is the high level architecture
 ![Screenshot](Spark+Minio.png)
 
 
-# This is the output on bronze for tests
+### This is the output on bronze for tests
 ![Screenshot](output-bronze.png)
 
 
